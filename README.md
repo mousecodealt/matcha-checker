@@ -1,4 +1,4 @@
-A Python script that monitors matcha products across multiple e-commerce websites (Ippodo, Rocky Matcha, Marukyu Koyamaen, etc.) and sends email alerts when items are back in stock.
+A Python script that monitors matcha products availability across multiple e-commerce websites (Ippodo, Rocky Matcha, Marukyu Koyamaen, etc.) and sends email alerts when items are back in stock.
 
 Built with Playwright and BeautifulSoup to scrape product availability and Gmail SMTP for notifications.  
 
